@@ -13,6 +13,12 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily:{
+        logo:["Playwrite BE VLG"],
+        banner:["Grey Qo"],
+        banner2:["Edu AU VIC WA NT Hand"],
+        banner3:["Great Vibes"]
+      }
     },
   },
   plugins: [],
